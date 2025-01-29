@@ -17,7 +17,7 @@ CHRISTIAN ZUMÁRRAGA,
 
 
 ## Implementación
-Para Correr este programa ejecutar
+Para Correr este programa ejecutar, usar Python 3.9
 
 ```bash
   pip install -r requirements.txt
